@@ -1,4 +1,4 @@
-# Hello, I'm John Doe 👋
+# Hello, I'm Divine chidi 👋
 
 Welcome to my GitHub profile! I'm a software engineer with a passion for open-source projects and learning new technologies. Here, you'll find some of the projects I've been working on.
 
