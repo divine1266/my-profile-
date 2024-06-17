@@ -21,15 +21,7 @@ https://www.dmtict.com.ng/indexx.php
 
 ## Skills
 
-- Programming Languages: JavaScript, Python, Java
-- Frameworks: React, Node.js, Express
-- Tools: Docker, Git, Jenkins
+- Programming Languages: JavaScript, php, flutter / dart, mysql, Python, Java 
+- Frameworks: wordpress
+- Tools:  Git, discord , slack 
 
-## GitHub Stats
-
-![John Doe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
-
-## Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
